@@ -20,7 +20,7 @@ Built with a modern React frontend and a robust Node.js + Express backend.
 ### Frontend (Client)
 - **React 19** + Vite
 - **React Router DOM**
-- **Tailwind CSS** (assumed)
+- **Tailwind CSS** 
 - Axios for API calls
 - React Hot Toast
 
